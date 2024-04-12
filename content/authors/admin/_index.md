@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李静远
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Jing Yuan Li
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -25,7 +25,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research experience spans three distinct areas, each with a specific focus: Scientific Computing, Statistical inference (Approximate Bayesian computation), and model parameter estimation, as well as stochastic algorithms..
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
