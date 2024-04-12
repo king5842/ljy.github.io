@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李静远
+title: 李静
 
 # Name pronunciation (optional)
 name_pronunciation: Jing Yuan Li
