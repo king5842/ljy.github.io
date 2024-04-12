@@ -6,8 +6,8 @@ title: 李静远
 name_pronunciation: Jing Yuan Li
 
 # Full name (for SEO)
-first_name: Jing Yuan
-last_name: Li
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wuhan University
+  - name: Stanford University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research experience spans three distinct areas, each with a specific focus: Scientific Computing, Statistical inference (Approximate Bayesian computation), and model parameter estimation, as well as stochastic algorithms.
+bio: My research experience spans three distinct areas, each with a specific focus: Scientific Computing, Statistical inference (Approximate Bayesian computation), and model parameter estimation, as well as stochastic algorithms..
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Scientific Computing
-  - Statistical inference
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
