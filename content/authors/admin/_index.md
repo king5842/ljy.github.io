@@ -25,13 +25,13 @@ organizations:
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research experience spans three distinct areas
+bio: My research experience spans three distinct areas, each with a specific focus: Scientific Computing, Statistical inference (Approximate Bayesian computation), and model parameter estimation, as well as stochastic algorithms.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - A
+  - Co
+  - I
 
 # Education to show in About widget
 education:
