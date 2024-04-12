@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 李静远
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jing Yuan Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jing Yuan
+last_name: Li
 
 # Status emoji
 status:
@@ -21,17 +21,17 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Wuhan University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research experience spans three distinct areas, each with a specific focus: Scientific Computing, Statistical inference (Approximate Bayesian computation), and model parameter estimation, as well as stochastic algorithms.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Scientific Computing
+  - Statistical inference
 
 # Education to show in About widget
 education:
