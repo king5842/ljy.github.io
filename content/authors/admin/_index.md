@@ -25,13 +25,14 @@ organizations:
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include scientific computing, statistical inference and stochastic analysis.
 
 # Interests to show in About widget
 interests:
-  - A
-  - Co
-  - I
+  - Deep learning
+  - Scientific computing (AI4 Science)
+  - Statistical inference 
+  - Stochastic analysis
 
 # Education to show in About widget
 education:
@@ -66,25 +67,26 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        
+  # - name: Hobbies
+  #  color: '#eeac02'
+  #  color_border: '#f0bf23'
+  #  items:
+  #    - name: Hiking
+  #      description: ''
+  #      percent: 60
+  #      icon: person-hiking
+  #      icon_pack: fas
+  #    - name: Cats
+  #      description: ''
+  #     percent: 100
+  #     icon: cat
+  #      icon_pack: fas
+  #    - name: Photography
+  #      description: ''
+  #      percent: 80
+  #      icon: camera-retro
+  #      icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research experience spans three distinct areas, each with a specific focus: Scientific Computing, Statistical inference (Approximate Bayesian computation), and model parameter estimation, as well as stochastic algorithms. I have also gained valuable project experience in fundamental AI domains such as Natural Language Processing (NLP) and data science. These experiences have further broadened my interdisciplinary expertise. 
 {style="text-align: justify;"}
