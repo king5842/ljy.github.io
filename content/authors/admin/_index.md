@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 李静远
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
